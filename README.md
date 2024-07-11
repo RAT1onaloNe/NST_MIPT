@@ -9,6 +9,7 @@ This project implements image style transfer using pre-trained neural network mo
 - [Examples](#examples)
 - [Demo](#streamlit-share)
 - [Project Structure](#project-structure)
+- [Train model](#train-model)
 
 ## Installation
 
@@ -79,3 +80,7 @@ NST_MIPT/
 ├── requirements.txt # Project dependencies
 
 └── README.md # Project description
+
+## Train model
+
+If you want to train your own model with your image go to ipynb file named train_model and folkow the steps.
