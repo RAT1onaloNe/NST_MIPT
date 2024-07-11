@@ -34,7 +34,7 @@ This project implements image style transfer using pre-trained neural network mo
 
 3. Select a style and upload an image for processing.
 
-## Demo
+## Streamlit share
 
 [Demo](https://nstmipt-nsd9rqtkqtmaknavnb9ymq.streamlit.app/)
 
