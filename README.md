@@ -41,22 +41,35 @@ This project implements image style transfer using pre-trained neural network mo
 ## Project Structure
 
 NST_MIPT/
+
 │
-
-
 
 ├── checkpoints/ # Directory with pre-trained models
+
 │ ├── blue.pth
+
 │ ├── green.pth
+
 │ └── yellow.pth
+
 │
+
 ├── styles/ # Directory with style images
+
 │ ├── blue.jpg
+
 │ ├── green.jpg
+
 │ └── yellow.jpg
+
 │
+
 ├── app.py # Main Streamlit application file
+
 ├── models.py # Model architecture definitions
+
 ├── utils.py # Utility functions
+
 ├── requirements.txt # Project dependencies
+
 └── README.md # Project description
