@@ -83,4 +83,4 @@ NST_MIPT/
 
 ## Train model
 
-If you want to train your own model with your image go to ipynb file named train_model and folkow the steps.
+If you want to train your own model with your image go to ipynb file named train_model and follow the steps.
