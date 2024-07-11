@@ -6,6 +6,7 @@ This project implements image style transfer using pre-trained neural network mo
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Examples](#examples)
 - [Demo](#streamlit-share)
 - [Project Structure](#project-structure)
 
