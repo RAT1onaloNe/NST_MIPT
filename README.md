@@ -10,6 +10,7 @@ This project implements image style transfer using pre-trained neural network mo
 - [Demo](#streamlit-share)
 - [Project Structure](#project-structure)
 - [Train model](#train-model)
+- [Docker](#docker)
 
 ## Installation
 
@@ -20,7 +21,7 @@ This project implements image style transfer using pre-trained neural network mo
     ```
     Python 3.8 or higher required
 
-3. Install the required dependencies:
+2. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
@@ -84,3 +85,11 @@ NST_MIPT/
 ## Train model
 
 If you want to train your own model with your image go to ipynb file named train_model and follow the steps.
+
+## Docker
+
+```bash
+docker build -t nst_mipt .
+docker run -p 8501:8501 nst_mipt
+```
+This will start the Streamlit application, and it will be accessible at http://localhost:8501
