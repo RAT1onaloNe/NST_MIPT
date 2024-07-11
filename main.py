@@ -20,8 +20,8 @@ def seed_everything(seed):
 
 
 seed_everything(42)
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
+#device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+device = torch.device("cpu")
 
 def test_image(image_path, checkpoint_model, save_path):
     os.makedirs(os.path.join(save_path, "results"), exist_ok=True)
