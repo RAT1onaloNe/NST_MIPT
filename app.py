@@ -3,7 +3,7 @@ import streamlit as st
 from PIL import Image
 from main import test_image
 
-style = {
+styles = {
     "Yellow": "yellow.pth",
     "Green": "green.pth",
     "Blue": "blue.pth"
@@ -36,7 +36,7 @@ def main():
                 input_image.save(input_image_path)
 
                 # Process the image
-                checkpoint_model = f"./checkpoints/{style[style]}"
+                checkpoint_model = f"./checkpoints/{styles[style]}"
                 output_image_path = test_image(input_image_path, checkpoint_model, './')
 
                 # Display the output image
