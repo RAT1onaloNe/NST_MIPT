@@ -37,6 +37,10 @@ This project implements image style transfer using pre-trained neural network mo
 ## Streamlit share
 
 [Demo](https://nstmipt-nsd9rqtkqtmaknavnb9ymq.streamlit.app/)
+
+## Examples
+
+![image](https://github.com/user-attachments/assets/1e49b845-79fc-4041-8679-dba2e0937f7b)
 ![image](https://github.com/user-attachments/assets/8230367a-3690-4612-bddb-b0bbf5806851)
 
 ## Project Structure
