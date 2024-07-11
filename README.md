@@ -42,6 +42,9 @@ This project implements image style transfer using pre-trained neural network mo
 
 NST_MIPT/
 │
+
+
+
 ├── checkpoints/ # Directory with pre-trained models
 │ ├── blue.pth
 │ ├── green.pth
