@@ -43,6 +43,8 @@ This project implements image style transfer using pre-trained neural network mo
 
 ## Examples
 
+![image](https://github.com/user-attachments/assets/a43c5a97-f4f8-4a8a-8dc4-f3c444e72758)
+![japanese_garden](https://github.com/user-attachments/assets/962c7667-f10e-4f4e-a001-5c7b4fbe9e0b)
 ![image](https://github.com/user-attachments/assets/1e49b845-79fc-4041-8679-dba2e0937f7b)
 ![image](https://github.com/user-attachments/assets/8230367a-3690-4612-bddb-b0bbf5806851)
 
